@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "NLog": {
+      "depType": "prod",
+      "dependencies": {},
+      "name": "NLog",
+      "version": "4.3.10"
+    }
+  },
+  "hasDevDependencies": true,
+  "name": "simple-project-with-dev",
+  "version": ""
+}

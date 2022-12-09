@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "version": "",
+  "hasDevDependencies": false,
+  "dependencies": {
+    "jQuery": {
+      "name": "jQuery",
+      "version": "3.1.1",
+      "depType": "prod",
+      "targetFrameworks": [
+        "net46"
+      ],
+      "dependencies": {}
+    },
+    "NLog": {
+      "name": "NLog",
+      "version": "4.3.10",
+      "depType": "prod",
+      "targetFrameworks": [
+        "net46"
+      ],
+      "dependencies": {}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "jQuery": {
+      "depType": "dev",
+      "dependencies": {},
+      "name": "jQuery",
+      "version": "3.1.1"
+    },
+    "NLog": {
+      "depType": "prod",
+      "dependencies": {},
+      "name": "NLog",
+      "version": "4.3.10"
+    }
+  },
+  "hasDevDependencies": true,
+  "name": "simple-project-with-dev",
+  "version": ""
+}
